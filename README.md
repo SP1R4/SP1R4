@@ -69,8 +69,9 @@ sp1r4@github:~$ cat ~/.stats
 ```
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SP1R4&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP1R4&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=dark" alt="Top languages" />
+  <a href="https://github.com/SP1R4?tab=followers"><img src="https://img.shields.io/github/followers/SP1R4?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=121212&labelColor=121212" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/stack-Python_·_C_·_Bash_·_JS_·_Solidity-121212?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/on_github-since_2021-121212?style=for-the-badge" alt="On GitHub since 2021" />
 </p>
 
 ```bash
