@@ -38,14 +38,14 @@ sp1r4@github:~$ ls -la ~/projects/
 | Project | What it does | Built with |
 |---------|-------------|------------|
 | [sentrynotch](https://github.com/SP1R4/sentrynotch) | Permission checkpoint for coding agents, living in your Mac's notch | `Swift` |
-| PhantomTrap *(private)* | High-interaction honeypot with behavioral fingerprinting &amp; real-time dashboard | `Python` |
+| [PhantomTrap](https://github.com/SP1R4/PhantomTrap) | High-interaction honeypot with behavioral fingerprinting &amp; real-time dashboard | `Python` |
 | [hashcracker](https://github.com/SP1R4/hashcracker) | Hash identification &amp; cracking toolkit — 60+ hash types, hashcat &amp; JtR | `Python` |
-| Qsafe *(private)* | Post-quantum file encryption using Kyber1024 + AES-256-GCM | `C` |
+| [Qsafe](https://github.com/SP1R4/Qsafe) | Post-quantum file encryption using Kyber1024 + AES-256-GCM | `C` |
 
 #### Infrastructure &amp; Automation
 | Project | What it does | Built with |
 |---------|-------------|------------|
-| BackupHandler *(private)* | Full backup suite — local/SSH/S3/MySQL, Tailscale VPN, system snapshots, encryption | `Python` |
+| [BackupHandler](https://github.com/SP1R4/BackupHandler) | Full backup suite — local/SSH/S3/MySQL, Tailscale VPN, system snapshots, encryption | `Python` |
 | tailscale-setup *(private)* | Automated mesh VPN deployment with SSH key auth &amp; AnyDesk | `Bash` `PowerShell` |
 | [CMDR](https://github.com/SP1R4/CMDR) | CLI command manager with tagging and JSON storage | `Bash` |
 
